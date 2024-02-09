@@ -3,10 +3,11 @@
 // Execute `rustlings hint variables2` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
 fn main() {
-    let x;
+    let x: i16 = 10;
+    // let x = "String";
+    // let x: f32 = 213.123;
     if x == 10 {
         println!("x is ten!");
     } else {
